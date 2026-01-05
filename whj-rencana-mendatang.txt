@@ -1,0 +1,8 @@
+RENCANA MENDATANG 
+
+- Javascript
+ * ES6
+ * Framework Javascript
+- Komputasi Awan
+- DevOps Vcs
+- Presentasi
