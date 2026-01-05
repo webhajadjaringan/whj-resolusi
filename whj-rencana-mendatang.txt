@@ -3,9 +3,11 @@ RENCANA MENDATANG
 - Javascript
  * ES6
  * Framework Javascript
-   ^ Augular
-   ^ React
+   ^vue
+   ^React
+- Struktur Data Dasar
 - Komputasi Awan
-   ^ Hosting
+  ^Hosting
 - DevOps Vcs
 - Presentasi
+- Python
