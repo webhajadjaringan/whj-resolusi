@@ -4,6 +4,7 @@ RENCANA MENDATANG
  * ES6
  * Framework Javascript
    ^vue
+   ^React
 - Struktur Data Dasar
 - Komputasi Awan
   ^Hosting
