@@ -3,6 +3,7 @@ RENCANA MENDATANG
 - Javascript
  * ES6
  * Framework Javascript
+- struktur data dasar
 - Komputasi Awan
 - DevOps Vcs
 - Presentasi
